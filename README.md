@@ -103,4 +103,4 @@ We are all in this together but sometimes opinions or personalities clash. Remem
 I hope this helps to get to know me a little better. I am looking forward working with you and getting to know you better and learning from you. If making a Readme for yourself sounds like something you’d like to do, I’d love to see one. If not, we can spend time at lunch or our 1-1s :) 
 
 
-![bye](https://t.umblr.com/redirect?z=http%3A%2F%2F2.bp.blogspot.com%2F-YdNSXaaXq-0%2FUNnXvq536kI%2FAAAAAAAACaI%2F_FAUzVYy5r0%2Fs1600%2Fc4024642.gif&t=YjAzZDYxMzJmNjQ3ODg2YTI0MDhiYmZkNDFlYTU3ZGFhYmExYjEzNixEZXFucE9sMQ%3D%3D&b=t%3A8cYkg0I3GXCicXzaiGxtrg&p=http%3A%2F%2Fstudioloveghibli.tumblr.com%2Fpost%2F40049703606%2Ftotoro-emoji-set&m=1)
+![bye](https://blog.udemy.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-11.48.13-AM.png)
