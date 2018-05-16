@@ -6,7 +6,7 @@ Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silico
 
 ### A little bit about me
 * 2 kids (boys, 12 & 13)
-* 2 cats (Hyperion & Nyx) |[cats](http://1.bp.blogspot.com/-lzONI-JbYd4/T4qf2SprPRI/AAAAAAAAhK0/nb9Ffb7Ehx8/s1600/kiki%27s_delivery_service_concept_art_character_11.jpg)
+* 2 cats (Hyperion & Nyx) ![cats](http://1.bp.blogspot.com/-lzONI-JbYd4/T4qf2SprPRI/AAAAAAAAhK0/nb9Ffb7Ehx8/s1600/kiki%27s_delivery_service_concept_art_character_11.jpg)
 * Degree in Pure Mathematics, minor in CS
 * 16+ years in software, largely QA teams
 
