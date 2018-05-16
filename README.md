@@ -3,7 +3,9 @@ _A guide to me as a manager_
 
 ## What is this? 
 Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager and how I commit to helping my team(s). This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
+
 ![cat](http://orig02.deviantart.net/2a12/f/2013/280/8/c/jiji_pixel_art_by_sniffle27-d6pnstz.png)
+
 ### A little bit about me
 * 2 kids (boys, 12 & 13)
 * 2 cats (Hyperion & Nyx) 
