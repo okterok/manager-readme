@@ -63,9 +63,9 @@ If you feel your efforts to collaborate have been hindered, please speak with me
 ** Staff augmentation
 
 ### Nights and weekends
-Nights & weekends are your own.  On occasion, I will end up catching up on a few things after hours or on weekends. _This is something I have chosen and is not something you should feel obligated to emulate._ Most people at VictorOps do not work nights or weekends.
+Nights & weekends are your own.  On occasion, I will end up catching up on a few things after hours or on weekends. _This is something I have chosen and is not something you should feel obligated to emulate._ As a rule, people at VictorOps do not work nights or weekends.
 
-Note: Most people at VictorOps are on call at some point. This will occastionally mean you will be paged on a night or weekend. Being on call gives us empathy for our users as well as helping us own quality on production. 
+Caveat: Most people at VictorOps _are_ on call at some point. This will occastionally mean you will be paged on a night or weekend. Being on call gives us empathy for our users as well as helping us own quality on production. 
 
 ### Scheduling
 My calendar often appears very full. Don’t let this scare you! Often my meetings are movable. Please go ahead and invite me to meetings with you, even if there appears to be a conflict.  If I cannot move my prior engagement, I will find the next available time for both of us.
