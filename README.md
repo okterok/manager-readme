@@ -34,12 +34,9 @@ I have 5 main goals:
 
 ### My teams
 I have the great honor to manage three teams:
-* Mobile
-** iOS and Android engineers who write the coolest mobile app for being on-call ever
-* SDET (aka Conundrum)
-** Software Development Engineers in Test who help write automation for our delivery teams
-* Manual QA (aka Quandary)
-** QA Analysts who ferret out the strangest bugs our engineers have missed and who help with day-to-day QA work for delivery teams
+* Mobile: iOS and Android engineers who write the coolest mobile app for being on-call ever
+* SDET (aka Conundrum Peak): Software Development Engineers in Test who help write automation for our delivery teams
+* Manual QA (aka Quandary Peak): QA Analysts who ferret out the strangest bugs our engineers have missed and who help with day-to-day QA work for delivery teams
 
 ### Collaboration
 I highly value collaboration. Collectively, we can unlock special super powers.
