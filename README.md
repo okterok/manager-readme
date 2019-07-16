@@ -9,6 +9,7 @@ Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silico
 * 2 kids (boys, 13 & 14)
 * Degree in Pure Mathematics, minor in CS
 * 16+ years in software, doing QA and managing engineering teams
+* Live in Boulder, CO
 
 In my spare time I enjoy:
 * Playing video games (usually MMOs) and board games
@@ -20,6 +21,9 @@ And finally...
 * I like documentation but also like to evolve process over time
 * I am strongly in favor of not asking someone else to do something I wouldn’t take on myself. 
 * I'm not a morning person so please forgive occasional grogginess
+
+### A little bit about my background
+I began my career testing video games for EA Sports. I was then an individual contributor as a quality assurance engineer and an SDET. I've lead and managed teams much of my career, but I'm happiest helping teams of engineers achieve their goals and through their struggles. I have worked with C++, java, javascript, python, ruby and scala in some form thoughout my career. Although I enjoy writing code, I've not done it exclusively in a few years but I enjoy being a sounding board for questions and looking at pull requests (though not as the sole reviewer). Please feel free to include me, if that's something you'd like! 
 
 ### My job
 My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a cool software projects. I just started at Wirecutter mid-July, I'm excited to see where this piece of my journey takes me! To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
