@@ -22,7 +22,7 @@ And finally...
 * I'm not a morning person so please forgive occasional grogginess
 
 ### My job
-My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a cool software projects. I just started at The Wirecutter, I'm excited to see where this piece of my journey takes me! To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
+My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a cool software projects. I just started at Wirecutter mid-July, I'm excited to see where this piece of my journey takes me! To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
 
 ### My goals
 My main goals:
