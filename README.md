@@ -42,22 +42,15 @@ If you feel your efforts to collaborate have been hindered, please speak with me
 
 ### Average work day (for you)
 * Mention in #wc-general when you're around in the morning and when you might be AFK for an extended period of time
-* Expect Agile ceremonies roughly once or twice per week
-* There are deploys typically Tuesday, Wednesday, Thursday depending on team; it’s encouraged to attend and help!
-* You might be asked to attend our meetings with Support
-* If you are on call for something, you might get paged
-* Remember to take a moment to bring a coworker to get some coffee or tea
+* Expect Agile ceremonies as needed
+* Speak with your team lead
 
 ### Average work day (for me)
-* I will typically come online between 7:30am - 8:00am my time
+* I will typically come online between 7:30am - 8:00am my time. If I travel, I'll send a quick email to let you know when I'll be around
 * I mention in #wc-general when you're around in the morning and when you might be AFK for an extended period of time
-* I have 1-1s as often as people would like them 
-* I meet with the Tech Team Leads once a week, every Tuesday morning
-* I meet with the Engineering management team once a week, every Thursday morning
-* I meet to tackle higher level topics for my teams such as:
-** Quality concerns
-** Feature designs
-** Staff augmentation
+* I have 1-1s once a week and in person if I happen to have that luxury!
+* I will be meeting with Eric and Dave once a week
+* I meet with everyone who reports to me once every two weeks
 
 ### Nights and weekends
 Nights & weekends are your own.  On occasion, I will end up catching up on a few things after hours or on weekends. _This is something I have chosen and is not something you should feel obligated to emulate._ As a rule, people at VictorOps do not work nights or weekends.
