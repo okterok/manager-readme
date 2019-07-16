@@ -5,36 +5,34 @@ _A guide to me as a manager_
 Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager and how I commit to helping my team(s). This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
 
 ### A little bit about me
-* 2 cats (Hyperion & Nyx) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
-* 2 kids (boys, 12 & 13)
+* 3 cats (Hyperion & Nyx & Casper) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
+* 2 kids (boys, 13 & 14)
 * Degree in Pure Mathematics, minor in CS
-* 16+ years in software, largely QA teams
+* 16+ years in software, doing QA and managing engineering teams
 
 In my spare time I enjoy:
-* Playing video games (usually MMOs)
+* Playing video games (usually MMOs) and board games
 * Being outside or traveling
 * Having adventures with my kids
+* Metal music
 
 And finally...
-* I have strong opinions, loosely held (so please change them!)
+* I like documentation but also like to evolve process over time
 * I am strongly in favor of not asking someone else to do something I wouldn’t take on myself. 
 
 ### My job
-My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a pretty cool piece of software for a company who values both the product and the people who make it. To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
+My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a cool software projects. I just started at The Wirecutter, I'm excited to see where this piece of my journey takes me! To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
 
 ### My goals
 I have 5 main goals:
-* Help you achieve your goals
+* Help you achieve your goals, both personal and professional
 * Support your efforts however I can
 * Provide context for what you’re working on
-* Advocate for you and the team with the rest of the company
-* Ensure a high standard of quality is met in our work
+* Advocate for you and our team with the rest of the company
+*  
 
-### My teams
-I have the great honor to manage three teams:
-* Mobile: iOS and Android engineers who write the coolest mobile app for being on-call ever
-* SDET (aka Conundrum Peak): Software Development Engineers in Test who help write automation for our delivery teams
-* Manual QA (aka Quandary Peak): QA Analysts who ferret out the strangest bugs our engineers have missed and who help with day-to-day QA work for delivery teams
+### My team
+I have the great honor to manage 6 engineers (who's names are redacted as this is a public document).
 
 ### Collaboration
 I highly value collaboration. Collectively, we can unlock special super powers.
@@ -43,7 +41,7 @@ When you were hired, it was in part because of your experience and skills. I res
 If you feel your efforts to collaborate have been hindered, please speak with me so I can help smooth out the path.
 
 ### Average work day (for you)
-* Arrive before stand up (varies by team)
+* Mention in #wc-general when you're around in the morning and when you might be AFK for an extended period of time
 * Expect Agile ceremonies roughly once or twice per week
 * There are deploys typically Tuesday, Wednesday, Thursday depending on team; it’s encouraged to attend and help!
 * You might be asked to attend our meetings with Support
@@ -51,7 +49,8 @@ If you feel your efforts to collaborate have been hindered, please speak with me
 * Remember to take a moment to bring a coworker to get some coffee or tea
 
 ### Average work day (for me)
-* I attend stand ups and Agile ceremonies on request (so let me know)
+* I will typically come online between 7:30am - 8:00am my time
+* I mention in #wc-general when you're around in the morning and when you might be AFK for an extended period of time
 * I have 1-1s as often as people would like them 
 * I meet with the Tech Team Leads once a week, every Tuesday morning
 * I meet with the Engineering management team once a week, every Thursday morning
