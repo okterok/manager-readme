@@ -32,7 +32,7 @@ My main goals:
 * Advocate for you and our team with the rest of the company
 
 ### My team
-I have the great honor to manage 6 engineers (who's names are redacted as this is a public document).
+I have the great honor to manage 6 engineers spread across 3 new squads.
 
 ### Collaboration
 I highly value collaboration. Collectively, we can unlock special super powers.
