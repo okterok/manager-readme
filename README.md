@@ -15,7 +15,7 @@ In my spare time I enjoy:
 * Playing video games (usually MMOs) and board games
 * Being outside or traveling
 * Having adventures with my kids
-* Metal music
+* Metal music (honestly most kinds I like, but I recently have largely been listening to metal)
 
 And finally...
 * I like documentation but also like to evolve process over time
@@ -63,12 +63,17 @@ My calendar often appears very full. Don’t let this scare you! Often my meetin
 I am here for you, and as such strive to make time to help so please ask!
 
 ### Communication
-I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). I'll be setting up a Slack channel for everyone who reports to me, and that can be a good way to communicate with the whole team. 
+I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). 
 
 ### 1-1s
-I’ll be meeting with you on a regular cadence to discuss pretty much whatever you’d like. To help me schedule these please let me know if you’d prefer:
-* Day of the week
-* Time of Day such as morning or afternoon
+I’ll be meeting with you on a regular cadence to discuss pretty much whatever you’d like. Some ideas of things we could talk about include:
+* Struggles / fun things which have happened over the week at work
+* Where you'd like to grow your career, knowledge base, skillset
+* How you're doing in your current squad / project / pieces of code
+* Things you're looking forward to / dreading
+* Personal goals (such as riding your bike more, remembering to take breaks, learning to knit, etc)
+
+If you feel stuck on what to talk about, let me know and I can bring some topics (I have a cool deck of potential questions).
 
 You and I will be sharing a Google doc, private to both of us, where you can drop in things you'd like to talk about. Please ping me in Slack for more urgent matters, but for longer-term things, this can help us keep track of goals, ideas, woes and triumphs. 
 
