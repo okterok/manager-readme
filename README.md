@@ -62,8 +62,14 @@ My calendar often appears very full. Don’t let this scare you! Often my meetin
 
 I am here for you, and as such strive to make time to help so please ask!
 
-### Communication
+### Communication, in general
+I appreciate open and honest communication, even if it's hard to hear or give. I recognize it might not be easy to give or receive candid feedback, so if you are most comfortable with a given mechanism (Slack, email, Zoom, etc) please let me know.  
+
+### Slack
 I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). 
+
+### Zoom
+My standard Zoom room is: https://wirecutter.zoom.us/j/3033321202
 
 ### 1-1s
 I’ll be meeting with you on a regular cadence to discuss pretty much whatever you’d like. Some ideas of things we could talk about include:
