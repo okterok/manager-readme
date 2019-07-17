@@ -62,9 +62,6 @@ My calendar often appears very full. Don’t let this scare you! Often my meetin
 
 I am here for you, and as such strive to make time to help so please ask!
 
-### Coffee with Maggie
-I'm not a morning person (as mentioned above) but Monday - Thursday from 7:30-8am, I have a standing and open Zoom room at https://wirecutter.zoom.us/j/3033321202. Please join! Conversations will not be private, and I will be drinking coffee, but I'd love to chat about things while I wake up. Please join me!
-
 ### Communication
 I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). I'll be setting up a Slack channel for everyone who reports to me, and that can be a good way to communicate with the whole team. 
 
