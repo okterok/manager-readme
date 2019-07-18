@@ -97,6 +97,7 @@ On an as-needed basis, I will take you aside privately (either in a 1-1 or if po
 In the event you encounter conflict with others (on your team, in engineering, in other parts of the company), I encourage you to do whatever you’re most comfortable with:
 * Speak with the person (if you feel comfortable doing so)
 * Speak with me
+
 We are all in this together but sometimes opinions or personalities clash. Remember, I’ve got your back in these situations and so does your lead. 
 
 I encourage you to keep documentation around conversations or interactions you've found uncomfortable. It will help me to better understand the context. I've found the 1-1 doc to be a good place for this as it is confidential.
