@@ -68,9 +68,6 @@ I appreciate open and honest communication, even if it's hard to hear or give. I
 ### Slack
 I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). 
 
-### Zoom
-My standard Zoom room is: https://wirecutter.zoom.us/j/3033321202
-
 ### 1-1s
 I’ll be meeting with you on a regular cadence to discuss pretty much whatever you’d like. Some ideas of things we could talk about include:
 * Struggles / fun things which have happened over the week at work
