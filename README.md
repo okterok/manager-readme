@@ -1,12 +1,12 @@
 # README for Margaret L Gourlay
-_A guide to me as a manager_
+_A guide to me as a manager of managers -- I'm now a Director_
 
 ## What is this? 
-Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager and how I commit to helping my team(s). This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
+Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager of managers, now that I'm a Director of engineer. With this, I hope to give insights around how I commit to helping my teams. This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
 
 ### A little bit about me
 * 3 cats (Hyperion & Nyx & Casper) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
-* 2 kids (boys, 13 & 14)
+* 2 kids (boys, 13 & 15)
 * Degree in Pure Mathematics, minor in CS
 * 16+ years in software, doing QA and managing engineering teams
 * Live in Boulder, CO
@@ -26,17 +26,19 @@ And finally...
 I began my career testing video games for EA Sports. I was then an individual contributor as a quality assurance engineer and an SDET. I've lead and managed teams much of my career, but I'm happiest helping teams of engineers achieve their goals and through their struggles. I have worked with C++, java, javascript, python, ruby and scala in some form thoughout my career. Although I enjoy writing code, I've not done it exclusively in a few years but I enjoy being a sounding board for questions and looking at pull requests (though not as the sole reviewer). Please feel free to include me, if that's something you'd like! 
 
 ### My job
-My title is Engineering Manager (and it makes me very happy to say that). I love my job because I get to help smart people work together on a cool software projects. I just started at Wirecutter mid-July, I'm excited to see where this piece of my journey takes me! To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
+My title is now Director of Engineering, as of November 2019 looking after Data and Delivery for Wirecutter. I love my job because I get to help smart people work together on a cool software projects. I just started at Wirecutter mid-July and it's been quite a journey thus far! 
+
+To help shape how I perform my duties, I have set some goals which will give context to how or why I make the choices I do. I am not perfect, so if there’s an area for me to improve, please speak up :).
 
 ### My goals
 My main goals:
 * Help you achieve your goals, both personal and professional
 * Support your efforts however I can
 * Provide context for what you’re working on
-* Advocate for you and our team with the rest of the company
+* Advocate for you and your team with the rest of the company
 
 ### My team
-I have the great honor to manage 6 engineers spread across 3 new squads.
+I have the great honor to manage 2 Engineering Managers across 2 teams, Data and Delivery. In early 2020, I will be adding a third focused on technical SEO.
 
 ### Collaboration
 I highly value collaboration. Collectively, we can unlock special super powers.
@@ -45,12 +47,11 @@ When you were hired, it was in part because of your experience and skills. I res
 If you feel your efforts to collaborate have been hindered, please speak with me so I can help smooth out the path.
 
 ### Average work day for me
-* I will typically come online between 7:30am - 8:00am my time. If I travel, I'll send a quick email to let you know when I'll be around.
-* I mention in #wc-general when you're around in the morning and when you might be AFK for an extended period of time
-* I have 1-1s once a week and in person if I happen to have that luxury!
-* I will be meeting with Eric and Dave once a week
-* I meet with everyone who reports to me once every two weeks
-* I plan to leave around 3:30pm - 4:40pm my time. 
+* I will typically come online between 6:30am - 7:00am my time. If I travel, I'll send a quick email to let you know when I'll be around.
+* I have 1-1s once a week with my EMs and in person if I happen to have that luxury!
+* I participate in skip-level 1-1s across all my teams on an as-needed basis
+* I will be meeting with Eric, Sam and Michael once a week around Digital Leadership topics
+* I tend to leave around 3:30pm - 4:40pm my time
 
 Please let me know if you'd like to meet outside of these hours and I can likely accomodate that!
 
@@ -66,7 +67,7 @@ I am here for you, and as such strive to make time to help so please ask!
 I appreciate open and honest communication, even if it's hard to hear or give. I recognize it might not be easy to give or receive candid feedback, so if you are most comfortable with a given mechanism (Slack, email, Zoom, etc) please let me know.  
 
 ### Slack
-I will keep my Slack on while I'm working. I will try and put it in Do Not Disturb when I'm in meetings, but might forget. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Emails and Google Docs for larger conversations are also welcome :). 
+I will keep my Slack on while I'm working. Please feel free to send me a message whenever something comes up and know I'll respond when I next can. Due to the retention policy in Slack, important topics should be kept in Google Docs and email.
 
 ### 1-1s
 I’ll be meeting with you on a regular cadence to discuss pretty much whatever you’d like. Some ideas of things we could talk about include:
@@ -76,17 +77,19 @@ I’ll be meeting with you on a regular cadence to discuss pretty much whatever 
 * Things you're looking forward to / dreading
 * Personal goals (such as riding your bike more, remembering to take breaks, learning to knit, etc)
 
-If you feel stuck on what to talk about, let me know and I can bring some topics (I have a cool deck of potential questions).
+If you feel stuck on what to talk about, let me know and I can bring some topics (I have a deck of potential questions).
 
 You and I will be sharing a Google doc, private to both of us, where you can drop in things you'd like to talk about. Please ping me in Slack for more urgent matters, but for longer-term things, this can help us keep track of goals, ideas, woes and triumphs. 
 
-If I visit where you live, I'd love to meet up in person -- only if you'd like. Please feel free to politely decline this offer, if it's not your cup of team and I'll take no offence.
+If I visit where you live, I'd love to meet up in person -- only if you'd like. Please feel free to politely decline this offer, if it's not your cup of tea and I'll take no offence.
 
 ### Feedback (for me)
 I appreciate any and all feedback. The only way I can improve being your manager is understanding your preferences and concerns. Please let me know how I can improve! I like learning and growing which is only possible when I know about problems.
 
+If you do not feel comfortable sharing this feedback directly with me, I welcome you to share it with my peers, Eric Jorgensen and Sam Morrison or with my manager, the CDO.
+
 ### Feedback (for you)
-When wins occur, I like to call them out as they happen in a positive way. If this isn’t something you like, please let me know and I’ll let you know more privately. 
+When wins occur, I like to call them out as they happen in a positive way with things like KarmaBot or a DM. If this isn’t something you like, please let me know and I’ll let you know however you'd prefer. 
 
 On an as-needed basis, I will take you aside privately (either in a 1-1 or if possible sooner) to let you know any misses you’ve had. I will also work with you to find solutions.
 
