@@ -2,7 +2,7 @@
 _A guide to me as a manager of managers -- I'm now a Director_
 
 ## What is this? 
-Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager of managers, now that I'm a Director of engineer. With this, I hope to give insights around how I commit to helping my teams. This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
+Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager of managers, now that I'm a Director of Engineering. With this, I hope to give insights around how I commit to helping my teams. This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
 
 ### A little bit about me
 * 3 cats (Hyperion & Nyx & Casper) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
