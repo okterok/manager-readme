@@ -101,6 +101,3 @@ I encourage you to keep documentation around conversations or interactions you'v
 
 ### Conclusion / Next steps
 I hope this helps to get to know me a little better. I am looking forward working with you and getting to know you better and learning from you. If making a Readme for yourself sounds like something you’d like to do, I’d love to see one. If not, we can spend time or our 1-1s :) 
-
-
-![bye](https://blog.udemy.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-11.48.13-AM.png)
