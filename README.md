@@ -1,4 +1,4 @@
-# README for Margaret L Gourlay
+# README for Maggie Gourlay
 _A guide to me as a manager._
 
 ## What is this? 
