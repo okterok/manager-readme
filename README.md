@@ -5,7 +5,7 @@ _A guide to me as a manager._
 Inspired by [this article](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), this document is meant to give the reader a window into who I am as a manager of managers, now that I'm a Director of Engineering. With this, I hope to give insights around how I commit to helping my teams. This document will (and should) evolve and I welcome all feedback. There is a PDF version of this available upon request.
 
 ### A little bit about me
-* 4 cats (Hyperion & Nyx & Casper & 宇宙人姫) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif  ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
+* 4 cats (Hyperion & Nyx & Casper & 宇宙人姫) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif) ![cat](http://media.tumblr.com/tumblr_m7qbssgqiz1qmuulg.gif)
 * 2 kids (boys, 14 & 16)
 * Degree in Pure Mathematics, minor in CS
 * 16+ years in software, doing QA and managing engineering teams
