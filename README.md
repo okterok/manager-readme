@@ -38,9 +38,6 @@ My main goals:
 * Provide and act upon constructive feedback with you
 * Advocate for you and your team with the rest of FireHydrant
 
-### My team
-[TBD]
-
 ### Collaboration
 I highly value collaboration. Collectively, we can unlock special super powers.
 When you were hired, it was in part because of your experience and skills. I respect your knowledge in these areas and ask you respect those of your colleagues in engineering.
